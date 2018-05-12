@@ -1,0 +1,37 @@
+_repo: Marcella_13728
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Humphry, Mrs.
+    aliases:
+    - Arnold, Mary Augusta
+    - Ward, Mary Augusta Arnold
+    - Ward, Mrs. Humphry
+    birthdate: 1851
+    deathdate: 1920
+    gutenberg_agent_id: '2629'
+    url: http://www.gutenberg.org/2009/agents/2629
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Augusta_Ward
+description: ''
+gutenberg_issued: '2004-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13728'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Love stories'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Nurses -- Fiction'
+- !lcsh 'Social problems -- Fiction'
+title: Marcella
+url: http://www.gutenberg.org/ebooks/13728
